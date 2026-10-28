@@ -58,6 +58,27 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Construa uma API REST de tarefas com FastAPI, modelos Pydantic, operações CRUD e validação de respostas HTTP.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-11-04"
+    },
+    {
+      "id": "statistics-with-python",
+      "title": "Statistics with Python",
+      "description": "Analise dados com pandas e NumPy: limpeza, estatísticas descritivas, comparação de grupos e correlação.",
+      "path": "assignments/statistics-with-python",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Dados fictícios de estudantes",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
