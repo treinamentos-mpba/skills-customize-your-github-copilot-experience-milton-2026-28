@@ -79,6 +79,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-with-pytest",
+      "title": "Testes Automatizados de APIs com pytest e FastAPI",
+      "description": "Teste a API de tarefas com pytest e TestClient: fixtures, isolamento de estado, fluxo CRUD e parametrização de casos de sucesso e erro.",
+      "path": "assignments/testing-fastapi-with-pytest",
+      "dueDate": "2026-11-04"
     }
   ]
 }
